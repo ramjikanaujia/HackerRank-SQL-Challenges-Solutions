@@ -1,0 +1,3 @@
+# Author: Ramji Kanaujia
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY
