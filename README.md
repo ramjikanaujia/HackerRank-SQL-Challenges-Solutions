@@ -86,14 +86,3 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 
 
-## References
-
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
-- [Variables in MySQL](https://stackoverflow.com/a/11754790)
-- [Median in MySQL](https://stackoverflow.com/a/7263925)
-
-## Features & Mentions
-This project was featured in [laptrinhx](https://laptrinhx.com/the-solutions-of-all-sql-hackerrank-challenges-executed-on-mysql-environment-545160427/). Thank you for the listing!
-
-## License
-This repository is licensed under MIT License - see [License](LICENSE.md) for more details
