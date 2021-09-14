@@ -1,0 +1,3 @@
+# Author: Ramji Kanaujia
+SELECT FLOOR(AVG(POPULATION))
+FROM CITY
